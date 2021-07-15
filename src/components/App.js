@@ -38,13 +38,14 @@ function App() {
 
   function handleMouseDown(e) {
     const heading = document.querySelector('.content')
-    heading.style.position = 'absolute'
-    heading.style.zIndex = 100;
 
     let shiftX = e.clientX - heading.getBoundingClientRect().left;
     let shiftY = e.clientY - heading.getBoundingClientRect().top;
 
     moveAt(e.pageX, e.pageY, heading);
+    heading.style.position = 'absolute'
+    heading.style.zIndex = 100;
+
     document.addEventListener('mousemove', onMouseMove);
 
     function moveAt(x, y) {
