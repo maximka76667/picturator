@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/picturator/static/css/main.e64dcfea.chunk.css",
-    "main.js": "/picturator/static/js/main.6ed86253.chunk.js",
-    "main.js.map": "/picturator/static/js/main.6ed86253.chunk.js.map",
+    "main.css": "/picturator/static/css/main.bf20eec4.chunk.css",
+    "main.js": "/picturator/static/js/main.a2f5b17f.chunk.js",
+    "main.js.map": "/picturator/static/js/main.a2f5b17f.chunk.js.map",
     "runtime-main.js": "/picturator/static/js/runtime-main.dbc67394.js",
     "runtime-main.js.map": "/picturator/static/js/runtime-main.dbc67394.js.map",
     "static/js/2.a7384d8b.chunk.js": "/picturator/static/js/2.a7384d8b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.625d730d.chunk.js": "/picturator/static/js/3.625d730d.chunk.js",
     "static/js/3.625d730d.chunk.js.map": "/picturator/static/js/3.625d730d.chunk.js.map",
     "index.html": "/picturator/index.html",
-    "static/css/main.e64dcfea.chunk.css.map": "/picturator/static/css/main.e64dcfea.chunk.css.map",
+    "static/css/main.bf20eec4.chunk.css.map": "/picturator/static/css/main.bf20eec4.chunk.css.map",
     "static/js/2.a7384d8b.chunk.js.LICENSE.txt": "/picturator/static/js/2.a7384d8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dbc67394.js",
     "static/js/2.a7384d8b.chunk.js",
-    "static/css/main.e64dcfea.chunk.css",
-    "static/js/main.6ed86253.chunk.js"
+    "static/css/main.bf20eec4.chunk.css",
+    "static/js/main.a2f5b17f.chunk.js"
   ]
 }
